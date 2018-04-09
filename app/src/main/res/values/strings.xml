@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Celsius</string>
+    <string name="apiKey">ukARpEXeA9PI9rz6XIlHIUwzmPY0lPEx</string>
+    <string name="direction">Direction</string>
+    <string name="speed">Speed</string>
+    <string name="pressure">Pressure</string>
+    <string name="visibility">Visibility</string>
+    <string name="humidity">Humidity</string>
+    <string name="hourly">Hourly</string>
+    <string name="future">Future</string>
+    <string name="sunriseandsunset"><![CDATA[Sunrise & Sunset]]></string>
+    <string name="wind">Wind</string>
+    <string name="details">Details</string>
+</resources>
